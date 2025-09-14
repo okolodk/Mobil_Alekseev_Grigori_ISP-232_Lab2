@@ -22,4 +22,12 @@ fun main() {
 //    if (num in 10..50)
 //        println("YES")
 //    else println("NO")
+    //Задание 4
+//    val c : Char = readln().first()
+//    when(c) {
+//        in '0'..'9' -> println("цифра")
+//        in 'a'.. 'z' -> println("буква")
+//        ' ' -> println("пробел")
+//        in '!'..'/' -> println("спец")
+//    }
 }
