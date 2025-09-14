@@ -17,4 +17,9 @@ fun main() {
 //    } else if (age > 17) {
 //        println("Взрослый")
 //    }
+    //Задание 3
+//    val num = readln().toInt()
+//    if (num in 10..50)
+//        println("YES")
+//    else println("NO")
 }
