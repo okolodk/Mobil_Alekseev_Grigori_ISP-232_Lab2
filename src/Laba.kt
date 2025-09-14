@@ -47,5 +47,9 @@ fun main() {
     for (c in films) {
         println("${c}.|| Длина = ${c.length}")
     }*/
-
+    //Задание 7
+//    val name = readln()
+//    val age = readln().toInt()
+//    val love_color = readln()
+//    println("Привет ${name}! Тебе ${age}.Твой любимый цвет ${love_color}")
 }
